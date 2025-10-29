@@ -15,6 +15,7 @@
 - 2 segundos no amarelo
 
 <br>
+
 ### Parte 1: Montagem Física
 
 &nbsp;&nbsp;&nbsp;Confira abaixo os itens necessários para a construção do semáforo offiline:
@@ -51,7 +52,7 @@
 <br>
 
 &nbsp;&nbsp;&nbsp;Logo após o desenvolvimento da primeira versão do código, fiz o primeiro teste físico ainda sem montar no molde de semáfaro.
-`<br>`
+<br>
 
 <p align = "center"> Figura 2 - Primeira versão física </p>
 
