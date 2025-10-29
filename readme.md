@@ -23,6 +23,7 @@
 <br>
 
 <p align = "center"> Quadro 1 - Componentes utilizados </p>
+
 | Componentes                                             |
 | ------------------------------------------------------- |
 | 1 LED vermelho                                          |
@@ -35,6 +36,7 @@
 | 1 protoboard                                            |
 | 1 placa mdf que simula a base no semáforo              |
 | 1 placa mdf que simula o encaixe das luzes do semáforo |
+
 <p align = "center"> (2025) Fonte da  </p>
 
 <br>
