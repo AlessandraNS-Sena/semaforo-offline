@@ -148,26 +148,26 @@ https://drive.google.com/file/d/1p2vMUkX4GDGMo5ovaFE4MXAb02CoW5LT/view?usp=shari
 
 <br>
 
-<p align = "center"> Quadro 2 - Avaliação feita pelo aluno X </p>
+<p align = "center"> Quadro 2 - Avaliação feita pela aluna Sarah Araujo Duarte </p>
 
 | Critério | Pontuação | Observações do Avaliador |
 |----------|-----------|--------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores | 0 | Nda |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 0 | Nda |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 0 | Nda |
-| Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 0 | Nda |
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores | 3 | Nda |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 3 | Nda |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3 | Nda |
+| Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | Nda |
 
 <p align = "center"> Fonte produzida pela própria aluna (2025) </p>
 
 <br>
 
-<p align = "center"> Quadro 3 - Avaliação realizada pelo aluno X </p>
+<p align = "center"> Quadro 3 - Avaliação realizada pela aluna Mariana Pereira de Souza </p>
 
 | Critério | Pontuação | Observações do Avaliador |
 |----------|-----------|--------------------------|
-| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores | 0 | Nda |
-| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 0 | Nda |
-| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 0 | Nda |
-| Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 0 | Nda |
+| Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores | 3 | Nda |
+| Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 3 | Nda |
+| Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 3 | Nda |
+| Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 1 | Nda |
 
 <p align = "center"> Fonte produzida pela própria autora (2025) </p>
