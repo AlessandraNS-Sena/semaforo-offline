@@ -37,7 +37,7 @@
 | 1 placa mdf que simula a base no semáforo              |
 | 1 placa mdf que simula o encaixe das luzes do semáforo |
 
-<p align = "center"> (2025) Fonte da  </p>
+<p align = "center"> Fonte produzida pela própria autora (2025) </p>
 
 <br>
 
@@ -72,7 +72,7 @@
 
 <p align = "center"> Fonte produzida pela propria autora (2025) </p>
 
-<br><br>
+<br>
 
 <p align = "center"> Figura 4 - Semáforo no MDF </p>
 
@@ -138,7 +138,7 @@ const int ledVerde = 11; // porta do led verdeunsigned long intervalo = 0; // de
 
 &nbsp;&nbsp;&nbsp; Para melhor visualização do funcionamento do semáforo você pode encontrar um link para o google drive que evidencializa a troca de cores do semáforo desenvolvido:
 
-(LINK DO DRIVE)
+https://drive.google.com/file/d/1p2vMUkX4GDGMo5ovaFE4MXAb02CoW5LT/view?usp=sharing 
 
 <br>
 
@@ -157,7 +157,7 @@ const int ledVerde = 11; // porta do led verdeunsigned long intervalo = 0; // de
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 0 | Nda |
 | Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 0 | Nda |
 
-<p align = "center"> Fonte realizada pela própria aluna (2025) </p>
+<p align = "center"> Fonte produzida pela própria aluna (2025) </p>
 
 <br>
 
@@ -170,4 +170,4 @@ const int ledVerde = 11; // porta do led verdeunsigned long intervalo = 0; // de
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 0 | Nda |
 | Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 0 | Nda |
 
-<p align = "center"> Fonte realizada pela própria autora (2025) </p>
+<p align = "center"> Fonte produzida pela própria autora (2025) </p>
