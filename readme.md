@@ -156,11 +156,13 @@ const int ledVerde = 11; // porta do led verdeunsigned long intervalo = 0; // de
 | Temporização adequada conforme tempos medidos com auxílio de algum instrumento externo | 0 | Nda |
 | Código implementa corretamente as fases do semáforo e estrutura do código (variáveis representativas e comentários) | 0 | Nda |
 | Ir além: Implementou um componente de extra, fez com millis() ao invés do delay() e/ou usou ponteiros no código | 0 | Nda |
+
 <p align = "center"> Fonte realizada pela própria aluna (2025) </p>
 
 <br>
 
 <p align = "center"> Quadro 3 - Avaliação realizada pelo aluno X </p>
+
 | Critério | Pontuação | Observações do Avaliador |
 |----------|-----------|--------------------------|
 | Montagem física com cores corretas, boa disposição dos fios e uso adequado de resistores | 0 | Nda |
