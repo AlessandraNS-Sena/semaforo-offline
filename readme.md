@@ -84,7 +84,7 @@
 
 &nbsp;&nbsp;&nbsp;Para o funcionamento do nosso semáforo, eu me utilizei do seguinte script adicionado ao Arduino IDE:
 
-```
+```cpp
 const int ledVermelho = 13; // porta do led vermelho
 const int ledAmarelo = 12; // porta do led amarelo
 const int ledVerde = 11; // porta do led verdeunsigned long intervalo = 0; // definindo o intervalo inicial entre uma cor e outraunsigned long ultimoIntervalo = 0; // variável para armazenar o último intervalo no loopint estado = 0; // 0 = vermelho, 1 = verde, 2 = amarelovoid setup()
